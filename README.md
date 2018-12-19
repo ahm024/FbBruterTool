@@ -6,7 +6,7 @@ Facebook Python Brute Force
 pip install mechanize
 ```
 ```
-git clone https://github.com/0sssama/FbBruterTool/
+git clone https://github.com/ahm024/FbBruterTool/
 ```
 ```
 cd FbBruterTool
